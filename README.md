@@ -4,16 +4,16 @@
 
 **目录**
 
-* **js日志**
- - [js如何准确获取变量类型](https://github.com/mengti/mengti.github.io/issues/8)
- - [js实现date-formatter 时间格式化](https://github.com/mengti/mengti.github.io/issues/7)
- - [ajax+promise 封装http请求](https://github.com/mengti/mengti.github.io/issues/6)
+- **js日志**
+    - [js如何准确获取变量类型](https://github.com/mengti/mengti.github.io/issues/8)
+    - [js实现date-formatter 时间格式化](https://github.com/mengti/mengti.github.io/issues/7)
+    - [ajax+promise 封装http请求](https://github.com/mengti/mengti.github.io/issues/6)
  
-* **vue日志**
- - [vue-resource拦截器](https://github.com/mengti/mengti.github.io/issues/1)
- - [vue build后 less sass background-img找不到文件](https://github.com/mengti/mengti.github.io/issues/4)
- - [vue webpack build 打包过滤console.log](https://github.com/mengti/mengti.github.io/issues/3)
- - [vue 数组内对象修改属性页面不渲染问题](https://github.com/mengti/mengti.github.io/issues/2)
+- **vue日志**
+    - [vue-resource拦截器](https://github.com/mengti/mengti.github.io/issues/1)
+    - [vue build后 less sass background-img找不到文件](https://github.com/mengti/mengti.github.io/issues/4)
+    - [vue webpack build 打包过滤console.log](https://github.com/mengti/mengti.github.io/issues/3)
+    - [vue 数组内对象修改属性页面不渲染问题](https://github.com/mengti/mengti.github.io/issues/2)
 * **css日志**
 
 * **个人心情**
