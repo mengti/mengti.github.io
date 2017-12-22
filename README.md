@@ -19,4 +19,12 @@
 
 * **个人心情**
 
+- **大牛直通车**
+    - [软一峰-blog](http://www.ruanyifeng.com/blog/)
+    - [玉伯-github issues](https://github.com/lifesinger/blog/issues)
+    - [张鑫旭-blog](http://www.zhangxinxu.com/wordpress/)
+    - [知乎前端专栏](https://zhuanlan.zhihu.com/web-F211)
+    - [张云龙-github](https://github.com/fouber/blog)
+    - [司徒正美-blog](http://www.cnblogs.com/rubylouvre/)
+
 
