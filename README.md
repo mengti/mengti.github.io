@@ -6,6 +6,7 @@
 
 - **js日志**
     - [js如何准确获取变量类型](https://github.com/mengti/mengti.github.io/issues/8)
+    - [网页商品SKU规格选择](https://github.com/mengti/mengti.github.io/issues/5)
     - [js实现date-formatter 时间格式化](https://github.com/mengti/mengti.github.io/issues/7)
     - [ajax+promise 封装http请求](https://github.com/mengti/mengti.github.io/issues/6)
  
